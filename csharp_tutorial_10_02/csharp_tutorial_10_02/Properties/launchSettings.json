@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csharp_tutorial_10_02": {
+      "commandName": "Project",
+      "commandLineArgs": "hat potato"
+    }
+  }
+}

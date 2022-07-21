@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "asp_commandprompt_tutorial/1.0.0": {
+        "runtime": {
+          "asp_commandprompt_tutorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "asp_commandprompt_tutorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

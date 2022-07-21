@@ -1,0 +1,13 @@
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\obj\Debug\netcoreapp3.1\csharp_tutorial_14_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\obj\Debug\netcoreapp3.1\csharp_tutorial_14_04.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\obj\Debug\netcoreapp3.1\csharp_tutorial_14_04.AssemblyInfo.cs
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\obj\Debug\netcoreapp3.1\csharp_tutorial_14_04.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\bin\Debug\netcoreapp3.1\csharp_tutorial_14_04.exe
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\bin\Debug\netcoreapp3.1\csharp_tutorial_14_04.deps.json
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\bin\Debug\netcoreapp3.1\csharp_tutorial_14_04.runtimeconfig.json
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\bin\Debug\netcoreapp3.1\csharp_tutorial_14_04.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\bin\Debug\netcoreapp3.1\csharp_tutorial_14_04.dll
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\bin\Debug\netcoreapp3.1\csharp_tutorial_14_04.pdb
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\obj\Debug\netcoreapp3.1\csharp_tutorial_14_04.dll
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\obj\Debug\netcoreapp3.1\csharp_tutorial_14_04.pdb
+C:\Users\Mark\source\repos\csharp_tutorial_14_04\csharp_tutorial_14_04\obj\Debug\netcoreapp3.1\csharp_tutorial_14_04.genruntimeconfig.cache

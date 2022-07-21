@@ -1,0 +1,13 @@
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\bin\Debug\netcoreapp3.1\csharp_tutorial_12_10.exe
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\bin\Debug\netcoreapp3.1\csharp_tutorial_12_10.deps.json
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\bin\Debug\netcoreapp3.1\csharp_tutorial_12_10.runtimeconfig.json
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\bin\Debug\netcoreapp3.1\csharp_tutorial_12_10.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\bin\Debug\netcoreapp3.1\csharp_tutorial_12_10.dll
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\bin\Debug\netcoreapp3.1\csharp_tutorial_12_10.pdb
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\obj\Debug\netcoreapp3.1\csharp_tutorial_12_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\obj\Debug\netcoreapp3.1\csharp_tutorial_12_10.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\obj\Debug\netcoreapp3.1\csharp_tutorial_12_10.AssemblyInfo.cs
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\obj\Debug\netcoreapp3.1\csharp_tutorial_12_10.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\obj\Debug\netcoreapp3.1\csharp_tutorial_12_10.dll
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\obj\Debug\netcoreapp3.1\csharp_tutorial_12_10.pdb
+C:\Users\Mark\source\repos\csharp_tutorial_12_10\csharp_tutorial_12_10\obj\Debug\netcoreapp3.1\csharp_tutorial_12_10.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\Mark\source\repos\csharp_tutorial_13_03\csharp_tutorial_13_03\obj\Debug\netcoreapp3.1\csharp_tutorial_13_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\csharp_tutorial_13_03\csharp_tutorial_13_03\obj\Debug\netcoreapp3.1\csharp_tutorial_13_03.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\csharp_tutorial_13_03\csharp_tutorial_13_03\obj\Debug\netcoreapp3.1\csharp_tutorial_13_03.AssemblyInfo.cs
+C:\Users\Mark\source\repos\csharp_tutorial_13_03\csharp_tutorial_13_03\obj\Debug\netcoreapp3.1\csharp_tutorial_13_03.csproj.CoreCompileInputs.cache
